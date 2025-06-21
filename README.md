@@ -1,7 +1,7 @@
 # Portfolio Risk Analysis and Optimization
 
 A data science project that analyzes and optimizes a portfolio of stocks using Modern Portfolio Theory and Sharpe Ratio maximization.
-**Live App:** [Click to Launch](portfolio-optimizer-4m8swq7iya7d55pxcmesq7.streamlit.app/)  
+**Live App:** [Click to Launch](https://portfolio-optimizer-4m8swq7iya7d55pxcmesq7.streamlit.app/)  
 **GitHub Repo:** [View Source](https://github.com/Adarsh-17-raj/portfolio-optimizer)
 
 
