@@ -1,0 +1,7 @@
+the following are the requirements of our project on the topic PORTFOLIO RISK ANANLYSIS AND OPTIMISATION:
+1. YFINANCE
+2. PANDAS
+3. NUMPY
+4. MATPLOTLIB 
+5. SEABORN
+6. PYPFOPT
